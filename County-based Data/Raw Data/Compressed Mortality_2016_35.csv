@@ -1,0 +1,365 @@
+Notes,County,County Code,Deaths,Population,Crude Rate
+,"Baldwin County, AL",1003,17,25214,67.4 (Unreliable)
+,"Calhoun County, AL",1015,20,13775,145.2
+,"Etowah County, AL",1055,15,12684,118.3 (Unreliable)
+,"Houston County, AL",1069,11,12919,85.1 (Unreliable)
+,"Jefferson County, AL",1073,63,83192,75.7
+,"Madison County, AL",1089,27,43028,62.7
+,"Mobile County, AL",1097,36,49311,73
+,"Montgomery County, AL",1101,21,28877,72.7
+,"Shelby County, AL",1117,10,29681,33.7 (Unreliable)
+,"Tuscaloosa County, AL",1125,16,24398,65.6 (Unreliable)
+,"Walker County, AL",1127,15,7626,196.7 (Unreliable)
+,"Anchorage Borough, AK",2020,16,37753,42.4 (Unreliable)
+,"Maricopa County, AZ",4013,115,551926,20.8
+,"Pima County, AZ",4019,26,113760,22.9
+,"Pinal County, AZ",4021,12,54400,22.1 (Unreliable)
+,"Craighead County, AR",5031,15,13378,112.1 (Unreliable)
+,"Jefferson County, AR",5069,10,8034,124.5 (Unreliable)
+,"Pulaski County, AR",5119,45,50062,89.9
+,"Sebastian County, AR",5131,11,15566,70.7 (Unreliable)
+,"Washington County, AR",5143,18,29380,61.3 (Unreliable)
+,"Alameda County, CA",6001,60,243703,24.6
+,"Contra Costa County, CA",6013,26,151259,17.2
+,"Fresno County, CA",6019,37,119919,30.9
+,"Kern County, CA",6029,47,110791,42.4
+,"Los Angeles County, CA",6037,364,1383875,26.3
+,"Merced County, CA",6047,11,32676,33.7 (Unreliable)
+,"Monterey County, CA",6053,19,56263,33.8 (Unreliable)
+,"Orange County, CA",6059,89,413930,21.5
+,"Riverside County, CA",6065,68,301953,22.5
+,"Sacramento County, CA",6067,53,196313,27
+,"San Bernardino County, CA",6071,67,272503,24.6
+,"San Diego County, CA",6073,76,434708,17.5
+,"San Francisco County, CA",6075,23,136667,16.8
+,"San Joaquin County, CA",6077,27,93591,28.8
+,"San Mateo County, CA",6081,10,109554,9.1 (Unreliable)
+,"Santa Clara County, CA",6085,41,278226,14.7
+,"Solano County, CA",6095,12,53611,22.4 (Unreliable)
+,"Sonoma County, CA",6097,14,61270,22.8 (Unreliable)
+,"Stanislaus County, CA",6099,24,67634,35.5
+,"Tulare County, CA",6107,21,57021,36.8
+,"Ventura County, CA",6111,13,105013,12.4 (Unreliable)
+,"Adams County, CO",8001,19,71924,26.4 (Unreliable)
+,"Arapahoe County, CO",8005,18,89501,20.1 (Unreliable)
+,"Boulder County, CO",8013,10,40288,24.8 (Unreliable)
+,"Denver County, CO",8031,17,108278,15.7 (Unreliable)
+,"El Paso County, CO",8041,34,85245,39.9
+,"Jefferson County, CO",8059,17,74161,22.9 (Unreliable)
+,"Pueblo County, CO",8101,11,19097,57.6 (Unreliable)
+,"Fairfield County, CT",9001,27,118653,22.8
+,"Hartford County, CT",9003,25,108133,23.1
+,"New Haven County, CT",9009,19,100344,18.9 (Unreliable)
+,"Kent County, DE",10001,13,20070,64.8 (Unreliable)
+,"New Castle County, DE",10003,15,68049,22.0 (Unreliable)
+,"Sussex County, DE",10005,16,21306,75.1 (Unreliable)
+,"District of Columbia, DC",11001,32,98889,32.4
+,"Alachua County, FL",12001,10,27782,36.0 (Unreliable)
+,"Bay County, FL",12005,12,21854,54.9 (Unreliable)
+,"Brevard County, FL",12009,19,58564,32.4 (Unreliable)
+,"Broward County, FL",12011,50,252740,19.8
+,"Clay County, FL",12019,12,26498,45.3 (Unreliable)
+,"Duval County, FL",12031,58,115996,50
+,"Escambia County, FL",12033,14,33610,41.7 (Unreliable)
+,"Hernando County, FL",12053,10,18142,55.1 (Unreliable)
+,"Hillsborough County, FL",12057,68,184953,36.8
+,"Lake County, FL",12069,10,35836,27.9 (Unreliable)
+,"Lee County, FL",12071,33,74540,44.3
+,"Leon County, FL",12073,11,30634,35.9 (Unreliable)
+,"Marion County, FL",12083,18,33710,53.4 (Unreliable)
+,"Miami-Dade County, FL",12086,93,375824,24.7
+,"Orange County, FL",12095,46,184099,25
+,"Osceola County, FL",12097,20,47774,41.9
+,"Palm Beach County, FL",12099,43,164593,26.1
+,"Pasco County, FL",12101,29,61267,47.3
+,"Pinellas County, FL",12103,33,104483,31.6
+,"Polk County, FL",12105,34,77862,43.7
+,"St. Johns County, FL",12109,11,29702,37.0 (Unreliable)
+,"St. Lucie County, FL",12111,12,33328,36.0 (Unreliable)
+,"Seminole County, FL",12117,12,60580,19.8 (Unreliable)
+,"Volusia County, FL",12127,26,54872,47.4
+,"Bibb County, GA",13021,17,17719,95.9 (Unreliable)
+,"Chatham County, GA",13051,23,35098,65.5
+,"Cherokee County, GA",13057,13,34270,37.9 (Unreliable)
+,"Clarke County, GA",13059,10,13898,72.0 (Unreliable)
+,"Clayton County, GA",13063,24,37524,64
+,"Cobb County, GA",13067,43,107454,40
+,"DeKalb County, GA",13089,37,106717,34.7
+,"Fulton County, GA",13121,39,148027,26.3
+,"Gwinnett County, GA",13135,39,134415,29
+,"Henry County, GA",13151,11,31311,35.1 (Unreliable)
+,"Muscogee County, GA",13215,22,24738,88.9
+,"Richmond County, GA",13245,18,22725,79.2 (Unreliable)
+,"Walker County, GA",13295,12,8814,136.1 (Unreliable)
+,"Hawaii County, HI",15001,13,22738,57.2 (Unreliable)
+,"Honolulu County, HI",15003,48,124211,38.6
+,"Ada County, ID",16001,10,61122,16.4 (Unreliable)
+,"Canyon County, ID",16027,12,26891,44.6 (Unreliable)
+,"Cook County, IL",17031,235,702610,33.4
+,"DuPage County, IL",17043,12,118859,10.1 (Unreliable)
+,"Lake County, IL",17097,17,88458,19.2 (Unreliable)
+,"McHenry County, IL",17111,13,39084,33.3 (Unreliable)
+,"Peoria County, IL",17143,10,22411,44.6 (Unreliable)
+,"St. Clair County, IL",17163,14,33257,42.1 (Unreliable)
+,"Sangamon County, IL",17167,10,23977,41.7 (Unreliable)
+,"Will County, IL",17197,22,95716,23
+,"Winnebago County, IL",17201,15,33904,44.2 (Unreliable)
+,"Allen County, IN",18003,21,45684,46
+,"Lake County, IN",18089,24,60909,39.4
+,"Marion County, IN",18097,55,119995,45.8
+,"St. Joseph County, IN",18141,13,31606,41.1 (Unreliable)
+,"Polk County, IA",19153,19,63511,29.9 (Unreliable)
+,"Sedgwick County, KS",20173,23,61581,37.3
+,"Daviess County, KY",21059,10,11877,84.2 (Unreliable)
+,"Fayette County, KY",21067,20,41395,48.3
+,"Jefferson County, KY",21111,54,95519,56.5
+,"Bossier Parish, LA",22015,11,16491,66.7 (Unreliable)
+,"Caddo Parish, LA",22017,21,29703,70.7
+,"Calcasieu Parish, LA",22019,17,24022,70.8 (Unreliable)
+,"East Baton Rouge Parish, LA",22033,29,52053,55.7
+,"Iberia Parish, LA",22045,12,8256,145.3 (Unreliable)
+,"Jefferson Parish, LA",22051,34,54090,62.9
+,"Orleans Parish, LA",22071,24,51363,46.7
+,"Ouachita Parish, LA",22073,16,19273,83.0 (Unreliable)
+,"Rapides Parish, LA",22079,21,15736,133.5
+,"St. Landry Parish, LA",22097,12,9190,130.6 (Unreliable)
+,"Anne Arundel County, MD",24003,32,73764,43.4
+,"Baltimore County, MD",24005,41,100113,41
+,"Charles County, MD",24017,10,20417,49.0 (Unreliable)
+,"Montgomery County, MD",24031,20,143442,13.9
+,"Prince George's County, MD",24033,51,121846,41.9
+,"Washington County, MD",24043,11,18630,59.0 (Unreliable)
+,"Baltimore city, MD",24510,37,74274,49.8
+,"Bristol County, MA",25005,13,68386,19.0 (Unreliable)
+,"Essex County, MA",25009,11,92103,11.9 (Unreliable)
+,"Hampden County, MA",25013,15,53279,28.2 (Unreliable)
+,"Middlesex County, MA",25017,34,207226,16.4
+,"Plymouth County, MA",25023,11,59177,18.6 (Unreliable)
+,"Suffolk County, MA",25025,18,100445,17.9 (Unreliable)
+,"Worcester County, MA",25027,21,99133,21.2
+,"Bay County, MI",26017,10,11862,84.3 (Unreliable)
+,"Genesee County, MI",26049,32,48490,66
+,"Ingham County, MI",26065,12,31424,38.2 (Unreliable)
+,"Kent County, MI",26081,19,78578,24.2 (Unreliable)
+,"Macomb County, MI",26099,37,106230,34.8
+,"Oakland County, MI",26125,49,154786,31.7
+,"Saginaw County, MI",26145,15,21042,71.3 (Unreliable)
+,"Washtenaw County, MI",26161,11,41230,26.7 (Unreliable)
+,"Wayne County, MI",26163,152,210183,72.3
+,"Hennepin County, MN",27053,38,161869,23.5
+,"Ramsey County, MN",27123,22,64521,34.1
+,"DeSoto County, MS",28033,10,25398,39.4 (Unreliable)
+,"Harrison County, MS",28047,14,25013,56.0 (Unreliable)
+,"Hinds County, MS",28049,28,28800,97.2
+,"Lauderdale County, MS",28075,10,9224,108.4 (Unreliable)
+,"Greene County, MO",29077,20,33442,59.8
+,"Jackson County, MO",29095,29,85749,33.8
+,"St. Charles County, MO",29183,16,51552,31.0 (Unreliable)
+,"St. Louis County, MO",29189,53,116680,45.4
+,"St. Louis city, MO",29510,25,40696,61.4
+,"Douglas County, NE",31055,15,72497,20.7 (Unreliable)
+,"Clark County, NV",32003,136,297214,45.8
+,"Washoe County, NV",32031,16,54508,29.4 (Unreliable)
+,"Hillsborough County, NH",33011,11,49650,22.2 (Unreliable)
+,"Bergen County, NJ",34003,17,123833,13.7 (Unreliable)
+,"Burlington County, NJ",34005,16,55056,29.1 (Unreliable)
+,"Camden County, NJ",34007,15,63949,23.5 (Unreliable)
+,"Essex County, NJ",34013,40,111798,35.8
+,"Gloucester County, NJ",34015,12,36237,33.1 (Unreliable)
+,"Hudson County, NJ",34017,25,106503,23.5
+,"Mercer County, NJ",34021,11,47384,23.2 (Unreliable)
+,"Middlesex County, NJ",34023,30,114833,26.1
+,"Monmouth County, NJ",34025,14,72125,19.4 (Unreliable)
+,"Morris County, NJ",34027,13,61029,21.3 (Unreliable)
+,"Ocean County, NJ",34029,17,60073,28.3 (Unreliable)
+,"Passaic County, NJ",34031,14,65001,21.5 (Unreliable)
+,"Union County, NJ",34039,22,76938,28.6
+,"Bernalillo County, NM",35001,16,84907,18.8 (Unreliable)
+,"Bronx County, NY",36005,73,184440,39.6
+,"Erie County, NY",36029,41,101174,40.5
+,"Kings County, NY",36047,92,365608,25.2
+,"Monroe County, NY",36055,15,83211,18.0 (Unreliable)
+,"Nassau County, NY",36059,36,162365,22.2
+,"New York County, NY",36061,28,238869,11.7
+,"Onondaga County, NY",36067,25,51526,48.5
+,"Orange County, NY",36071,15,45148,33.2 (Unreliable)
+,"Queens County, NY",36081,64,326478,19.6
+,"Rensselaer County, NY",36083,12,18582,64.6 (Unreliable)
+,"Richmond County, NY",36085,10,60037,16.7 (Unreliable)
+,"Rockland County, NY",36087,11,35580,30.9 (Unreliable)
+,"Suffolk County, NY",36103,36,178894,20.1
+,"Westchester County, NY",36119,34,124694,27.3
+,"Cumberland County, NC",37051,22,38669,56.9
+,"Durham County, NC",37063,11,43559,25.3 (Unreliable)
+,"Gaston County, NC",37071,19,27785,68.4 (Unreliable)
+,"Guilford County, NC",37081,21,65150,32.2
+,"Mecklenburg County, NC",37119,41,156920,26.1
+,"Robeson County, NC",37155,12,16172,74.2 (Unreliable)
+,"Wake County, NC",37183,22,158541,13.9
+,"Wayne County, NC",37191,11,14543,75.6 (Unreliable)
+,"Butler County, OH",39017,32,45311,70.6
+,"Clark County, OH",39023,14,14737,95.0 (Unreliable)
+,"Cuyahoga County, OH",39035,64,142501,44.9
+,"Franklin County, OH",39049,78,168050,46.4
+,"Hamilton County, OH",39061,31,94051,33
+,"Lorain County, OH",39093,15,37285,40.2 (Unreliable)
+,"Lucas County, OH",39095,26,50200,51.8
+,"Mahoning County, OH",39099,20,25830,77.4
+,"Montgomery County, OH",39113,34,60297,56.4
+,"Stark County, OH",39151,19,42128,45.1 (Unreliable)
+,"Summit County, OH",39153,28,62416,44.9
+,"Cleveland County, OK",40027,15,35400,42.4 (Unreliable)
+,"Muskogee County, OK",40101,10,8341,119.9 (Unreliable)
+,"Oklahoma County, OK",40109,56,99250,56.4
+,"Tulsa County, OK",40143,46,82015,56.1
+,"Marion County, OR",41047,13,41930,31.0 (Unreliable)
+,"Multnomah County, OR",41051,20,128692,15.5
+,"Washington County, OR",41067,15,86904,17.3 (Unreliable)
+,"Allegheny County, PA",42003,42,139426,30.1
+,"Berks County, PA",42011,17,47886,35.5 (Unreliable)
+,"Bucks County, PA",42017,13,72360,18.0 (Unreliable)
+,"Dauphin County, PA",42043,14,32484,43.1 (Unreliable)
+,"Delaware County, PA",42045,17,66272,25.7 (Unreliable)
+,"Erie County, PA",42049,13,30647,42.4 (Unreliable)
+,"Lancaster County, PA",42071,16,60642,26.4 (Unreliable)
+,"Lehigh County, PA",42077,15,44557,33.7 (Unreliable)
+,"Luzerne County, PA",42079,10,36181,27.6 (Unreliable)
+,"Montgomery County, PA",42091,19,101261,18.8 (Unreliable)
+,"Philadelphia County, PA",42101,108,191924,56.3
+,"Westmoreland County, PA",42129,13,38420,33.8 (Unreliable)
+,"York County, PA",42133,16,53442,29.9 (Unreliable)
+,"Providence County, RI",44007,20,76852,26
+,"Aiken County, SC",45003,11,19172,57.4 (Unreliable)
+,"Berkeley County, SC",45015,12,27693,43.3 (Unreliable)
+,"Charleston County, SC",45019,13,49872,26.1 (Unreliable)
+,"Florence County, SC",45041,12,17211,69.7 (Unreliable)
+,"Greenville County, SC",45045,21,64392,32.6
+,"Horry County, SC",45051,20,36667,54.5
+,"Lexington County, SC",45063,14,37070,37.8 (Unreliable)
+,"Richland County, SC",45079,41,49930,82.1
+,"Spartanburg County, SC",45083,18,36412,49.4 (Unreliable)
+,"York County, SC",45091,16,35475,45.1 (Unreliable)
+,"Minnehaha County, SD",46099,12,23537,51.0 (Unreliable)
+,"Davidson County, TN",47037,42,93301,45
+,"Hamilton County, TN",47065,17,44318,38.4 (Unreliable)
+,"Knox County, TN",47093,32,56672,56.5
+,"Montgomery County, TN",47125,11,25653,42.9 (Unreliable)
+,"Rutherford County, TN",47149,10,43522,23.0 (Unreliable)
+,"Shelby County, TN",47157,80,117232,68.2
+,"Sullivan County, TN",47163,12,18253,65.7 (Unreliable)
+,"Sumner County, TN",47165,10,23930,41.8 (Unreliable)
+,"Bell County, TX",48027,13,43370,30.0 (Unreliable)
+,"Bexar County, TX",48029,85,256432,33.1
+,"Bowie County, TX",48037,11,12008,91.6 (Unreliable)
+,"Brazoria County, TX",48039,15,51196,29.3 (Unreliable)
+,"Cameron County, TX",48061,22,52042,42.3
+,"Collin County, TX",48085,21,149566,14
+,"Dallas County, TX",48113,138,356091,38.8
+,"Denton County, TX",48121,27,124224,21.7
+,"El Paso County, TX",48141,33,103835,31.8
+,"Fort Bend County, TX",48157,21,112655,18.6
+,"Galveston County, TX",48167,17,42934,39.6 (Unreliable)
+,"Grayson County, TX",48181,10,14634,68.3 (Unreliable)
+,"Harris County, TX",48201,189,651836,29
+,"Henderson County, TX",48213,10,8455,118.3 (Unreliable)
+,"Hidalgo County, TX",48215,37,108718,34
+,"Jefferson County, TX",48245,22,32164,68.4
+,"Johnson County, TX",48251,10,20795,48.1 (Unreliable)
+,"Lubbock County, TX",48303,17,34250,49.6 (Unreliable)
+,"McLennan County, TX",48309,14,27591,50.7 (Unreliable)
+,"Montgomery County, TX",48339,17,75465,22.5 (Unreliable)
+,"Nueces County, TX",48355,15,44778,33.5 (Unreliable)
+,"Potter County, TX",48375,12,15455,77.6 (Unreliable)
+,"Smith County, TX",48423,10,26225,38.1 (Unreliable)
+,"Tarrant County, TX",48439,89,274666,32.4
+,"Taylor County, TX",48441,14,14619,95.8 (Unreliable)
+,"Travis County, TX",48453,24,188681,12.7
+,"Williamson County, TX",48491,12,85340,14.1 (Unreliable)
+,"Salt Lake County, UT",49035,23,162394,14.2
+,"Fairfax County, VA",51059,27,165203,16.3
+,"Henrico County, VA",51087,18,43762,41.1 (Unreliable)
+,"Prince William County, VA",51153,14,69380,20.2 (Unreliable)
+,"Newport News city, VA",51700,14,21143,66.2 (Unreliable)
+,"Richmond city, VA",51760,18,25661,70.1 (Unreliable)
+,"Roanoke city, VA",51770,10,12386,80.7 (Unreliable)
+,"Virginia Beach city, VA",51810,15,58028,25.8 (Unreliable)
+,"Clark County, WA",53011,16,61818,25.9 (Unreliable)
+,"King County, WA",53033,60,316509,19
+,"Pierce County, WA",53053,37,109684,33.7
+,"Snohomish County, WA",53061,22,107738,20.4
+,"Spokane County, WA",53063,17,59194,28.7 (Unreliable)
+,"Yakima County, WA",53077,11,29414,37.4 (Unreliable)
+,"Kanawha County, WV",54039,13,22719,57.2 (Unreliable)
+,"Raleigh County, WV",54081,10,10090,99.1 (Unreliable)
+,"Milwaukee County, WI",55079,34,119936,28.3
+Total,,,13630,40470156,33.7
+---,,,,,
+"Dataset: Compressed Mortality, 1999-2016",,,,,
+Query Parameters:,,,,,
+Age Group: 35-44 years,,,,,
+ICD-10 Codes: I00-I99 (Diseases of the circulatory system),,,,,
+Year: 2016,,,,,
+Group By: County,,,,,
+Show Totals: True,,,,,
+Show Zero Values: False,,,,,
+Show Suppressed: False,,,,,
+"Calculate Rates Per: 100,000",,,,,
+---,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information.,,,,,
+---,,,,,
+"Query Date: Apr 1, 2019 10:10:19 PM",,,,,
+---,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File",,,,,
+"1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the Compressed Mortality File 1999-2016 Series 20 No.",,,,,
+"2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Apr 1, 2019 10:10:19 PM",,,,,
+---,,,,,
+Messages:,,,,,
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above",,,,,
+to show zero rows.,,,,,
+"2. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use",,,,,
+Quick Options above to show suppressed rows.,,,,,
+---,,,,,
+Footnotes:,,,,,
+1. Data are not available for this area for all of the requested years. See Caveats below for more information.,,,,,
+---,,,,,
+Caveats:,,,,,
+"1. Due to confidentiality constraints, sub-national death counts and rates are suppressed when the number of deaths is less than",,,,,
+10. Figures representing infant deaths and births have additional constraints for national and local data. More information:,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Assurance of Confidentiality.,,,,,
+2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable.,,,,,
+"3. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the",,,,,
+1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010,,,,,
+are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race,,,,,
+intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal,,,,,
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016.",,,,,
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,",,,,,
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:",,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Not Stated.,,,,,
+"5. Prince of Wales-Outer Ketchikan Census Area, Alaska (FIPS code 02201) data are available only for 1999-2013. For 2014 and",,,,,
+"beyond, death counts and population estimates for Prince of Wales-Outer Ketchikan Census Area Census Area are reported as Prince",,,,,
+"of Wales-Hyder Census Area (FIPS code 02198). Death counts and population estimates for this entity from multi-year requests,",,,,,
+only reflect data from 1999 through 2013; for 2014 and beyond they have been set to zero. More information:,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Prince of Wales-Outer Ketchikan Census Area.,,,,,
+"6. Skagway-Hoonah-Angoon Census Area, Alaska (FIPS code 02232) data are available only for 1999-2013. For 2014 and beyond, death",,,,,
+counts and population estimates for Skagway-Hoonah-Angoon Census Area are reported as Hoonah-Angoon Census Area(FIPS code 02105),,,,,
+"and Skagway Municipality, (FIPS code 02230). Death counts and population estimates for this entity from multi-year requests,",,,,,
+only reflect data from 1999 through 2013; for 2014 and beyond they have been set to zero. More information:,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Skagway-Hoonah-Angoon Census Area.,,,,,
+"7. Wrangell-Petersburg Census Area, Alaska (FIPS code 02280) data are available only for 1999-2013. For 2014 and beyond, death",,,,,
+counts and population estimates for Wrangell-Petersburg Census Area are reported as Petersburg Borough/Census Area (FIPS code,,,,,
+"02195) and Wrangell City and Borough, (FIPS code 02275). Death counts and population estimates for this entity from multi-year",,,,,
+"requests, only reflect data from 1999 through 2013; for 2014 and beyond they have been set to zero. More information:",,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Wrangell-Petersburg Census Area.,,,,,
+"8. Carson City, Nevada (FIPS code 32510) data are shown separately from the adjacent counties for.",,,,,
+"9. Baltimore city, Maryland (FIPS code 24510) and Baltimore County, Maryland (FIPS code 24005) data are reported separately.",,,,,
+"10. St. Louis city, Missouri (FIPS code 29510) and St. Louis County, Missouri (FIPS code 29189) data are reported separately.",,,,,
+"11. Bedford city, Virginia (FIPS code 51515) data are available only for 1999-2010. For 2011 and beyond, death counts and",,,,,
+population estimates for Bedford city have been combined with Bedford County (FIPS code 51019). Death counts and population,,,,,
+"estimates for this entity from multi-year requests, only reflect data from 1999 through 2010; for 2011 and beyond they have been",,,,,
+set to zero. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Bedford-Virginia.,,,,,
+"12. Clifton Forge city, Virginia (FIPS code 51560) data are available only for 1999-2000. For 2001 and beyond, death counts and",,,,,
+"population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code 51005).",,,,,
+"Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 through 2000; for",,,,,
+2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Clifton Forge.,,,,,
