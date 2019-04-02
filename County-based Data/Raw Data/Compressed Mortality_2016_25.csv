@@ -1,0 +1,169 @@
+Notes,County,County Code,Deaths,Population,Crude Rate
+,"Jefferson County, AL",1073,11,95223,11.6 (Unreliable)
+,"Mobile County, AL",1097,11,57615,19.1 (Unreliable)
+,"Maricopa County, AZ",4013,39,609189,6.4
+,"Pima County, AZ",4019,18,125088,14.4 (Unreliable)
+,"Alameda County, CA",6001,17,273552,6.2 (Unreliable)
+,"Fresno County, CA",6019,16,148837,10.8 (Unreliable)
+,"Kern County, CA",6029,12,136468,8.8 (Unreliable)
+,"Los Angeles County, CA",6037,140,1614407,8.7
+,"Orange County, CA",6059,28,454417,6.2
+,"Riverside County, CA",6065,24,330030,7.3
+,"Sacramento County, CA",6067,23,234690,9.8
+,"San Bernardino County, CA",6071,36,319358,11.3
+,"San Diego County, CA",6073,27,543245,5
+,"Santa Clara County, CA",6085,10,303378,3.3 (Unreliable)
+,"Stanislaus County, CA",6099,14,77861,18.0 (Unreliable)
+,"Tulare County, CA",6107,10,64795,15.4 (Unreliable)
+,"Denver County, CO",8031,12,156891,7.6 (Unreliable)
+,"El Paso County, CO",8041,17,106328,16.0 (Unreliable)
+,"Hartford County, CT",9003,14,117423,11.9 (Unreliable)
+,"Brevard County, FL",12009,11,63845,17.2 (Unreliable)
+,"Broward County, FL",12011,36,259684,13.9
+,"Duval County, FL",12031,15,152232,9.9 (Unreliable)
+,"Hillsborough County, FL",12057,21,209072,10
+,"Miami-Dade County, FL",12086,32,389881,8.2
+,"Orange County, FL",12095,25,221265,11.3
+,"Palm Beach County, FL",12099,13,172509,7.5 (Unreliable)
+,"Pinellas County, FL",12103,14,114312,12.2 (Unreliable)
+,"Polk County, FL",12105,14,84824,16.5 (Unreliable)
+,"Seminole County, FL",12117,14,65614,21.3 (Unreliable)
+,"Volusia County, FL",12127,12,60635,19.8 (Unreliable)
+,"Cobb County, GA",13067,10,107095,9.3 (Unreliable)
+,"DeKalb County, GA",13089,14,124305,11.3 (Unreliable)
+,"Fulton County, GA",13121,16,169027,9.5 (Unreliable)
+,"Gwinnett County, GA",13135,13,119313,10.9 (Unreliable)
+,"Muscogee County, GA",13215,10,31682,31.6 (Unreliable)
+,"Honolulu County, HI",15003,18,153815,11.7 (Unreliable)
+,"Cook County, IL",17031,65,848257,7.7
+,"Will County, IL",17197,11,79966,13.8 (Unreliable)
+,"Lake County, IN",18089,11,59407,18.5 (Unreliable)
+,"Marion County, IN",18097,19,157029,12.1 (Unreliable)
+,"Vanderburgh County, IN",18163,11,26374,41.7 (Unreliable)
+,"Jefferson County, KY",21111,18,112611,16.0 (Unreliable)
+,"Caddo Parish, LA",22017,10,35397,28.3 (Unreliable)
+,"Jefferson Parish, LA",22051,12,64516,18.6 (Unreliable)
+,"Orleans Parish, LA",22071,18,73005,24.7 (Unreliable)
+,"Baltimore County, MD",24005,12,116423,10.3 (Unreliable)
+,"Prince George's County, MD",24033,24,134871,17.8
+,"Baltimore city, MD",24510,16,116947,13.7 (Unreliable)
+,"Bristol County, MA",25005,10,69656,14.4 (Unreliable)
+,"Macomb County, MI",26099,13,112560,11.5 (Unreliable)
+,"Oakland County, MI",26125,11,159166,6.9 (Unreliable)
+,"Wayne County, MI",26163,45,237432,19
+,"Hennepin County, MN",27053,16,210370,7.6 (Unreliable)
+,"Hinds County, MS",28049,10,35339,28.3 (Unreliable)
+,"Jackson County, MO",29095,12,106196,11.3 (Unreliable)
+,"St. Louis County, MO",29189,17,126454,13.4 (Unreliable)
+,"Clark County, NV",32003,34,320949,10.6
+,"Essex County, NJ",34013,15,109452,13.7 (Unreliable)
+,"Hudson County, NJ",34017,10,144242,6.9 (Unreliable)
+,"Bronx County, NY",36005,27,231762,11.6
+,"Erie County, NY",36029,21,129154,16.3
+,"Kings County, NY",36047,39,483657,8.1
+,"Nassau County, NY",36059,11,155817,7.1 (Unreliable)
+,"New York County, NY",36061,14,372901,3.8 (Unreliable)
+,"Onondaga County, NY",36067,10,61504,16.3 (Unreliable)
+,"Queens County, NY",36081,25,381436,6.6
+,"Suffolk County, NY",36103,14,171431,8.2 (Unreliable)
+,"Westchester County, NY",36119,10,110151,9.1 (Unreliable)
+,"Mecklenburg County, NC",37119,11,176750,6.2 (Unreliable)
+,"Wake County, NC",37183,11,153700,7.2 (Unreliable)
+,"Cuyahoga County, OH",39035,23,169814,13.5
+,"Franklin County, OH",39049,27,229564,11.8
+,"Hamilton County, OH",39061,16,121819,13.1 (Unreliable)
+,"Montgomery County, OH",39113,10,70627,14.2 (Unreliable)
+,"Summit County, OH",39153,12,70893,16.9 (Unreliable)
+,"Oklahoma County, OK",40109,12,124680,9.6 (Unreliable)
+,"Allegheny County, PA",42003,16,187608,8.5 (Unreliable)
+,"Montgomery County, PA",42091,10,101711,9.8 (Unreliable)
+,"Philadelphia County, PA",42101,39,295704,13.2
+,"Greenville County, SC",45045,10,68674,14.6 (Unreliable)
+,"Horry County, SC",45051,16,39116,40.9 (Unreliable)
+,"Richland County, SC",45079,11,60980,18.0 (Unreliable)
+,"Davidson County, TN",47037,16,134580,11.9 (Unreliable)
+,"Shelby County, TN",47157,40,135130,29.6
+,"Bell County, TX",48027,10,57962,17.3 (Unreliable)
+,"Bexar County, TX",48029,37,304595,12.1
+,"Collin County, TX",48085,12,118396,10.1 (Unreliable)
+,"Dallas County, TX",48113,34,416030,8.2
+,"Denton County, TX",48121,11,120047,9.2 (Unreliable)
+,"El Paso County, TX",48141,16,122851,13.0 (Unreliable)
+,"Harris County, TX",48201,68,743867,9.1
+,"Tarrant County, TX",48439,25,299406,8.3
+,"Travis County, TX",48453,16,240916,6.6 (Unreliable)
+,"Salt Lake County, UT",49035,19,184741,10.3 (Unreliable)
+,"King County, WA",53033,22,377564,5.8
+,"Pierce County, WA",53053,14,132162,10.6 (Unreliable)
+,"Milwaukee County, WI",55079,26,155570,16.7
+Total,,,4511,44677243,10.1
+---,,,,,
+"Dataset: Compressed Mortality, 1999-2016",,,,,
+Query Parameters:,,,,,
+Age Group: 25-34 years,,,,,
+ICD-10 Codes: I00-I99 (Diseases of the circulatory system),,,,,
+Year: 2016,,,,,
+Group By: County,,,,,
+Show Totals: True,,,,,
+Show Zero Values: False,,,,,
+Show Suppressed: False,,,,,
+"Calculate Rates Per: 100,000",,,,,
+---,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information.,,,,,
+---,,,,,
+"Query Date: Apr 1, 2019 10:11:20 PM",,,,,
+---,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File",,,,,
+"1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the Compressed Mortality File 1999-2016 Series 20 No.",,,,,
+"2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Apr 1, 2019 10:11:20 PM",,,,,
+---,,,,,
+Messages:,,,,,
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above",,,,,
+to show zero rows.,,,,,
+"2. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use",,,,,
+Quick Options above to show suppressed rows.,,,,,
+---,,,,,
+Footnotes:,,,,,
+1. Data are not available for this area for all of the requested years. See Caveats below for more information.,,,,,
+---,,,,,
+Caveats:,,,,,
+"1. Due to confidentiality constraints, sub-national death counts and rates are suppressed when the number of deaths is less than",,,,,
+10. Figures representing infant deaths and births have additional constraints for national and local data. More information:,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Assurance of Confidentiality.,,,,,
+2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable.,,,,,
+"3. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the",,,,,
+1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010,,,,,
+are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race,,,,,
+intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal,,,,,
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016.",,,,,
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,",,,,,
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:",,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Not Stated.,,,,,
+"5. Prince of Wales-Outer Ketchikan Census Area, Alaska (FIPS code 02201) data are available only for 1999-2013. For 2014 and",,,,,
+"beyond, death counts and population estimates for Prince of Wales-Outer Ketchikan Census Area Census Area are reported as Prince",,,,,
+"of Wales-Hyder Census Area (FIPS code 02198). Death counts and population estimates for this entity from multi-year requests,",,,,,
+only reflect data from 1999 through 2013; for 2014 and beyond they have been set to zero. More information:,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Prince of Wales-Outer Ketchikan Census Area.,,,,,
+"6. Skagway-Hoonah-Angoon Census Area, Alaska (FIPS code 02232) data are available only for 1999-2013. For 2014 and beyond, death",,,,,
+counts and population estimates for Skagway-Hoonah-Angoon Census Area are reported as Hoonah-Angoon Census Area(FIPS code 02105),,,,,
+"and Skagway Municipality, (FIPS code 02230). Death counts and population estimates for this entity from multi-year requests,",,,,,
+only reflect data from 1999 through 2013; for 2014 and beyond they have been set to zero. More information:,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Skagway-Hoonah-Angoon Census Area.,,,,,
+"7. Wrangell-Petersburg Census Area, Alaska (FIPS code 02280) data are available only for 1999-2013. For 2014 and beyond, death",,,,,
+counts and population estimates for Wrangell-Petersburg Census Area are reported as Petersburg Borough/Census Area (FIPS code,,,,,
+"02195) and Wrangell City and Borough, (FIPS code 02275). Death counts and population estimates for this entity from multi-year",,,,,
+"requests, only reflect data from 1999 through 2013; for 2014 and beyond they have been set to zero. More information:",,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Wrangell-Petersburg Census Area.,,,,,
+"8. Carson City, Nevada (FIPS code 32510) data are shown separately from the adjacent counties for.",,,,,
+"9. Baltimore city, Maryland (FIPS code 24510) and Baltimore County, Maryland (FIPS code 24005) data are reported separately.",,,,,
+"10. St. Louis city, Missouri (FIPS code 29510) and St. Louis County, Missouri (FIPS code 29189) data are reported separately.",,,,,
+"11. Bedford city, Virginia (FIPS code 51515) data are available only for 1999-2010. For 2011 and beyond, death counts and",,,,,
+population estimates for Bedford city have been combined with Bedford County (FIPS code 51019). Death counts and population,,,,,
+"estimates for this entity from multi-year requests, only reflect data from 1999 through 2010; for 2011 and beyond they have been",,,,,
+set to zero. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Bedford-Virginia.,,,,,
+"12. Clifton Forge city, Virginia (FIPS code 51560) data are available only for 1999-2000. For 2001 and beyond, death counts and",,,,,
+"population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code 51005).",,,,,
+"Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 through 2000; for",,,,,
+2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Clifton Forge.,,,,,
